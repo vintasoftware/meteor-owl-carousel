@@ -3,6 +3,6 @@
   "description": "Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.",
   "homepage": "https://github.com/richsilv/meteor-owl-carousel",
   "author": "Richard Silverton",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/richsilv/meteor-owl-carousel.git"
 }
