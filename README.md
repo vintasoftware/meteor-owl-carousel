@@ -54,3 +54,11 @@ Now call the Owl initializer function and your carousel is ready.
 
 ```html
 $(".owl-carousel").owlCarousel();
+
+### Addition
+Methods Examples:
+owl.trigger('add.owl.carousel')
+owl.trigger('replace.owl.carousel')
+owl.trigger('refresh.owl.carousel')
+owl.data('owl.carousel')
+owl.data('owl.carousel')._widths.length
